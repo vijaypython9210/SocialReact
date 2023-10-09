@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "VIJAY N",
+      "title": "Full Stack Developer",
+      "body": "Theni\n"
+    },
+    {
+      "id": 2,
+      "name": "Ajay NaveenaDurai",
+      "title": "MCA STUDENT",
+      "body": "Theni \n"
+    },
+    {
+      "id": 5,
+      "name": "VVW13",
+      "title": "AC",
+      "body": "Rajapalayam "
+    },
+    {
+      "id": 3,
+      "name": "Kavitha ",
+      "title": "Amma",
+      "body": "Theni "
+    }
+  ]
+}
